@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Lobster&family=Orbitron:wght@800&display=swap');
+
+.profile {
+    display: flex;
+    justify-content: center;
+    height: 125px;
+    margin-top: 60px;
+    background-color:rgb(224,224,213);
+}
+.pic {
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    border-radius: 50px;
+}
+.about-me {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color:rgb(224,224,213);
+}
+.about-meh {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.about-mep {
+    font-size: 1rem;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 20px 20px 20px;
+}

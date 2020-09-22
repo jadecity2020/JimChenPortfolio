@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Lobster&family=Orbitron:wght@800&display=swap');
+
+.header-image {
+    margin-top:50px;
+    background-image: url(https://res.cloudinary.com/jadecity2020/image/upload/v1591890447/31_ww8fer.jpg);
+    background-size: cover;
+    height: 500px;
+    background-position: center center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.image-text {
+    padding-top: 230px;
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    margin-bottom:0px;
+}
+#image-text-id{
+    color:white;
+    text-align: center;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 30px;
+    margin-top: 0px;
+    padding-bottom: 1000px;
+}
